@@ -1,4 +1,4 @@
-h# 
+h# Ligero JetBrains IntelliJ IDEA herramientas para Mac OS | Último JetBrains IntelliJ IDEA herramientas para PC Windows. Con soporte Gitflow y monitorización de recursos — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
